@@ -84,7 +84,7 @@ Centralized storage of all settings:
 | `TOOL_DESCRIPTION_MAX_LENGTH` | Max tool description length | 10000 characters |
 | `DEBUG_LAST_REQUEST` | Enable debug logging | `false` |
 | `DEBUG_DIR` | Debug logs directory | `debug_logs` |
-| `APP_VERSION` | Application version | `1.0.1` |
+| `APP_VERSION` | Application version | `0.0.0` |
 
 **Helper functions:**
 - `get_kiro_refresh_url(region)` — URL for token refresh

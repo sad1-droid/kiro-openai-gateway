@@ -84,7 +84,7 @@ kiro-openai-gateway/
 | `TOOL_DESCRIPTION_MAX_LENGTH` | Макс. длина описания tool | 10000 символов |
 | `DEBUG_LAST_REQUEST` | Включить отладочное логирование | `false` |
 | `DEBUG_DIR` | Директория для debug логов | `debug_logs` |
-| `APP_VERSION` | Версия приложения | `1.0.1` |
+| `APP_VERSION` | Версия приложения | `0.0.0` |
 
 **Вспомогательные функции:**
 - `get_kiro_refresh_url(region)` — URL для обновления токена
